@@ -1,0 +1,33 @@
+/* This file was generated automatically by Modkit MSIE. */
+
+@font-face{
+    font-family:"New Geneva W01 Nine";
+    src:url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/d29907c8-c47d-45b0-8caf-210b1d1811f9.eot?#iefix");
+    src:url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/d29907c8-c47d-45b0-8caf-210b1d1811f9.eot?#iefix") format("eot"),url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/86372a3a-dd13-4918-b777-b8cf0719af20.woff2") format("woff2"),url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/ae3a0bfa-f546-4d92-8603-75d1d84b0c88.woff") format("woff"),url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/e9624d6f-06bd-4060-b874-4c8d8df8cca9.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Sabo-Regular";
+    src: url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Regular.eot"); /* IE9 Compat Modes */
+    src: url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+        url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Regular.otf") format("opentype"), /* Open Type Font */
+        url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Regular.svg") format("svg"), /* Legacy iOS */
+        url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+        url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Regular.woff") format("woff"), /* Modern Browsers */
+        url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Regular.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Sabo-Filled";
+    src: url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Filled.eot"); /* IE9 Compat Modes */
+    src: url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Filled.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+        url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Filled.otf") format("opentype"), /* Open Type Font */
+        url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Filled.svg") format("svg"), /* Legacy iOS */
+        url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Filled.ttf") format("truetype"), /* Safari, Android, iOS */
+        url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Filled.woff") format("woff"), /* Modern Browsers */
+        url("https://shadysam.com/wp-content/themes/shady-sam/app/static/fonts/Sabo-Filled.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
