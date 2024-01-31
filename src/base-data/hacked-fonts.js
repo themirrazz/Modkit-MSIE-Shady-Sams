@@ -32,5 +32,5 @@ var HackedFonts = [
             'Sabo-Filled.woff',
             'Sabo-Filled.ttf'
         ]
-    },
-];
+    }
+]
